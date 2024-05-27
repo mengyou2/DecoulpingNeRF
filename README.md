@@ -19,7 +19,6 @@ cd DecoulpingNeRF
 conda create -n denerf python=3.8
 conda activate denerf
 pip install -r requirements.txt
-
 ```
 
 ### Training
@@ -27,7 +26,6 @@ pip install -r requirements.txt
 To train the model by running
 ```
 python run_nerf.py --config ./configs/config_xxxx.txt 
-
 ```
 
 ### Testing
@@ -35,7 +33,6 @@ python run_nerf.py --config ./configs/config_xxxx.txt
 To train the model by running
 ```
 python run_nerf.py --config ./configs/config_xxxx.txt --render_only --ft_path ./logs/xxxx/200000.tar
-
 ```
 ### Acknowledgments
 Our code is build upon [NeRF](https://github.com/bmild/nerf), [NeRF-pytorch](https://github.com/yenchenlin/nerf-pytorch), [NSFF](https://github.com/zhengqili/Neural-Scene-Flow-Fields) and [DynamicNeRF](https://github.com/gaochen315/DynamicNeRF).
