@@ -1,0 +1,14 @@
+torch==1.8.1+cu111  
+torchaudio==0.8.1 
+torchvision==0.9.1+cu111 
+imageio
+imageio-ffmpeg
+matplotlib
+configargparse
+tensorboard
+tqdm
+opencv-python
+PyMCubes
+trimesh
+jupyter
+lpips
