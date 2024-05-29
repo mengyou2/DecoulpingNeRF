@@ -1,5 +1,5 @@
 # Decoupling Dynamic Monocular Videos for Dynamic View Synthesis
-[Paper](https://arxiv.org/abs/2304.01716)
+[Paper](https://arxiv.org/abs/2304.01716)|[Demo](https://youtu.be/cCZRRpOd8F8)
 ## Getting Started
 
 ### Dependencies
